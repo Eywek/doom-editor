@@ -1,0 +1,7 @@
+objs
+editor
+*.w3d
+*.o
+*.gch
+a.out*
+*.dn
